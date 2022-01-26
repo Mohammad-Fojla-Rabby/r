@@ -1,0 +1,31 @@
+.custom-radious{
+    
+    border-radius: 30px;
+    
+}
+
+@media screen and (min-width: 768px)  {
+    .extra-desing{
+        background-color: rgba(0, 0, 255, 0.788);
+      position: relative;
+       bottom:50px ;
+        }
+        .margin-bottom{
+            margin-bottom: 200px;
+        }
+  }
+
+.custom-hot{
+    position: relative;
+    background-color:red;
+    padding: 5px;
+    border-radius: 10px;
+    left: 130px;
+    bottom: 10px;
+}
+p{
+   word-wrap: break-word;
+}
+.custom-black{
+    color: black !important;
+}
